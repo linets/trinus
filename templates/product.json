@@ -17,7 +17,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "",
             "text_style": "subtitle"
           }
         },
@@ -54,7 +54,7 @@
           "settings": {
             "heading": "DESCUBRE TU PRODUCTO",
             "icon": "none",
-            "content": "<p>{{ product.metafields.global.temporada.value }}<br\/>{{ product.metafields.custom.formato.value }}<\/p>",
+            "content": "<p><\/p>",
             "page": ""
           }
         },
