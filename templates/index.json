@@ -37,41 +37,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "slideshow_eeiRAt": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_qMYM3E": {
-          "type": "slide",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_qMYM3E"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "featured_collection_hE3XCK": {
       "type": "featured-collection",
       "settings": {
@@ -101,64 +66,90 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_pXTjMn": {
-      "type": "image-banner",
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_4eac9P": {
-      "type": "image-banner",
+    "multicolumn_4KNQpz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ET97Fx": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3ee4Rc": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DnkQNW": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KiPMqT": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kPGLmx": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YE6TBM": {
+          "type": "column",
+          "settings": {
+            "title": "Bandolera Selene",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ET97Fx",
+        "column_3ee4Rc",
+        "column_DnkQNW",
+        "column_KiPMqT",
+        "column_kPGLmx",
+        "column_YE6TBM"
+      ],
       "custom_css": [
-        "#Banner-template--21473158922433__image_banner_4eac9P {margin-top: 50px;}"
+        ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "featured_collection_Ltj79V": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "ON SALE | BANDOLERAS",
-        "heading_size": "h1",
-        "align_title": "center",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 6,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
+        "force_full_width": true,
+        "title": "THE ICONS | METALLIC OBSESSION",
+        "heading_size": "h2",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_desktop": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -258,11 +249,8 @@
   },
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
-    "slideshow_eeiRAt",
     "featured_collection_hE3XCK",
-    "image_banner_pXTjMn",
-    "image_banner_4eac9P",
-    "featured_collection_Ltj79V",
+    "multicolumn_4KNQpz",
     "406a65c7-d10a-4160-a30c-634059fa1435",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "17049857032c5ebfc6",
