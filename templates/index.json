@@ -156,6 +156,9 @@
     },
     "image_banner_UtBXNY": {
       "type": "image-banner",
+      "custom_css": [
+        ".banner--content-align-mobile-center {margin-top: 30px}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
         "image_2": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
