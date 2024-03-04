@@ -157,13 +157,12 @@
     "image_banner_UtBXNY": {
       "type": "image-banner",
       "custom_css": [
-        ".banner--content-align-mobile-center {margin-top: 30px}"
+        ".banner--content-align-mobile-center {margin-top: 30px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
-        "image_2": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
