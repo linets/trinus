@@ -144,14 +144,31 @@
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_desktop": false,
         "swipe_on_mobile": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 44
+      }
+    },
+    "image_banner_UtBXNY": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
+        "image_2": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "406a65c7-d10a-4160-a30c-634059fa1435": {
@@ -251,6 +268,7 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "featured_collection_hE3XCK",
     "multicolumn_4KNQpz",
+    "image_banner_UtBXNY",
     "406a65c7-d10a-4160-a30c-634059fa1435",
     "dc802415-49b3-4130-a1bb-b4143927a0d4",
     "17049857032c5ebfc6",
