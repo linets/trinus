@@ -541,6 +541,13 @@
         "address_company_blank": "Introduce un número de RUT",
         "address_city_blank": "Introduce una comuna",
         "address_zip_blank": "Introduce un número de casa"
+      },
+      "general": {
+        "errors": {
+          "payment": {
+            "saved_payment_methods_cvv_verification_disabled": "El método de pago seleccionado requiere verificación CVV que no está habilitada para esta tienda. Seleccione un método de pago diferente."
+          }
+        }
       }
     }
   }
