@@ -12,7 +12,7 @@
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/blogs\/news",
+            "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -37,87 +37,60 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection_hE3XCK": {
+    "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "SPECIAL PRICE | MOCHILAS",
-        "heading_size": "h1",
+        "title": "<strong>ADELANTA TUS COMPRAS DE NAVIDAD<\/strong>",
+        "heading_size": "h2",
         "align_title": "center",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "mochilas",
-        "products_to_show": 10,
+        "collection": "all",
+        "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": true,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
         "padding_bottom": 36
       }
     },
-    "multicolumn_4KNQpz": {
+    "fd8003f0-fa91-4c7d-8f99-2bb233dd3615": {
       "type": "multicolumn",
       "blocks": {
-        "column_ET97Fx": {
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_3ee4Rc": {
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_DnkQNW": {
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3": {
           "type": "column",
           "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_KiPMqT": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_kPGLmx": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YE6TBM": {
-          "type": "column",
-          "settings": {
-            "title": "Bandolera Selene",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -125,124 +98,25 @@
         }
       },
       "block_order": [
-        "column_ET97Fx",
-        "column_3ee4Rc",
-        "column_DnkQNW",
-        "column_KiPMqT",
-        "column_kPGLmx",
-        "column_YE6TBM"
-      ],
-      "custom_css": [
-        ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-1",
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-2",
+        "template--21506872606913__fd8003f0-fa91-4c7d-8f99-2bb233dd3615-column-3"
       ],
       "settings": {
         "force_full_width": true,
-        "title": "THE ICONS | METALLIC OBSESSION",
-        "heading_size": "h2",
+        "title": "",
+        "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "center",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_desktop": false,
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 44
-      }
-    },
-    "image_banner_UtBXNY": {
-      "type": "image-banner",
-      "custom_css": [
-        ".banner--content-align-mobile-center {margin-top: 30px;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_Secundario_desk.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "406a65c7-d10a-4160-a30c-634059fa1435": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7G33BN": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p><\/p><p><\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1",
-        "column_7G33BN",
-        "5d62f929-a455-4369-b59a-d72d1f33b2a1"
-      ],
-      "custom_css": [
-        ".multicolumn {background: #000;}",
-        ".multicolumn-card-spacing {width: 100%; height: auto;}"
-      ],
-      "settings": {
-        "force_full_width": false,
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_desktop": false,
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 20
-      }
-    },
-    "dc802415-49b3-4130-a1bb-b4143927a0d4": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/rqqa37AjIoI?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=rqqa37AjIoI&enablejsapi=1&origin=https%3A%2F%2Fwww.ziolstore.com&widgetid=1",
-        "video_url": "",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -264,17 +138,192 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "b18a84ed-5707-48d2-b87d-d05620258745": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dos-asas_4.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bandoleras-mobile.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mochilas_9.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1",
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {justify-content: center; margin-bottom: 0; margin-top: 50px;}"
+      ],
+      "settings": {
+        "force_full_width": true,
+        "title": "THE ICONS | METALLIC OBSESSION",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_desktop": false,
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 100
+      }
+    },
+    "241f4691-2553-4f6e-bc31-ad64aa132e6b": {
+      "type": "image-banner",
+      "custom_css": [
+        ".banner--content-align-mobile-center {margin-top: 50px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mochila.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_Tkhazm": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/carteras_6.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "dc802415-49b3-4130-a1bb-b4143927a0d4": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "custm_video_url": "https:\/\/www.youtube.com\/embed\/rqqa37AjIoI?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=rqqa37AjIoI&enablejsapi=1&origin=https%3A%2F%2Fwww.ziolstore.com&widgetid=1",
+        "video_url": "",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "406a65c7-d10a-4160-a30c-634059fa1435": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/despacho.jpg",
+            "title": "<strong>Despacho a domicilio<\/strong>",
+            "text": "<p>A todo Chile entregas 3-5 días hábiles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cambios.jpg",
+            "title": "<strong>Cambios y devoluciones<\/strong>",
+            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cuotas.jpg",
+            "title": "<strong>Compra hasta 6 coutas <\/strong>",
+            "text": "<p>sin interes<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1",
+        "5d62f929-a455-4369-b59a-d72d1f33b2a1",
+        "7f41631c-b9a8-4930-b18f-ab768cd27ca3"
+      ],
+      "custom_css": [
+        ".media > *:not(.zoom):not(.deferred-media__poster-button) {width: 60px; height: 60px; margin: 56px 26px;}",
+        ".multicolumn-card-spacing {width: 135px; height: 135px;}"
+      ],
+      "settings": {
+        "force_full_width": false,
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_desktop": false,
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
-    "featured_collection_hE3XCK",
-    "multicolumn_4KNQpz",
-    "image_banner_UtBXNY",
-    "406a65c7-d10a-4160-a30c-634059fa1435",
-    "dc802415-49b3-4130-a1bb-b4143927a0d4",
+    "featured_collection",
+    "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
     "17049857032c5ebfc6",
     "17049865837c762c30",
-    "170498672219347873"
+    "170498672219347873",
+    "b18a84ed-5707-48d2-b87d-d05620258745",
+    "241f4691-2553-4f6e-bc31-ad64aa132e6b",
+    "image_banner_Tkhazm",
+    "dc802415-49b3-4130-a1bb-b4143927a0d4",
+    "406a65c7-d10a-4160-a30c-634059fa1435"
   ]
 }
