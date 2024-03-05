@@ -206,6 +206,7 @@
         ".banner--content-align-mobile-center {margin-top: 50px;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mochila.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -221,6 +222,7 @@
     "image_banner_Tkhazm": {
       "type": "image-banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/carteras_6.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -254,6 +256,7 @@
         "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/despacho.jpg",
             "title": "<strong>Despacho a domicilio<\/strong>",
             "text": "<p>A todo Chile entregas 3-5 días hábiles<\/p>",
             "link_label": "",
@@ -263,6 +266,7 @@
         "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cambios.webp",
             "title": "<strong>Cambios y devoluciones<\/strong>",
             "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
             "link_label": "",
@@ -272,6 +276,7 @@
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cuotas.jpg",
             "title": "<strong>Compra hasta 6 coutas <\/strong>",
             "text": "<p>sin interes<\/p>",
             "link_label": "",
