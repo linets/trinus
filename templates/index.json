@@ -228,6 +228,9 @@
         "slide_tCtLkf",
         "slide_FK3JL3"
       ],
+      "custom_css": [
+        ".slider__slide {margin-top: 35px;}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
