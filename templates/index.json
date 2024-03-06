@@ -6,8 +6,8 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_web_8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/banner_web_8.jpg",
+            "image": "shopify:\/\/shop_images\/Banner-web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner-mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -21,10 +21,50 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_igF7dk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caluga-Bags_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga-Bags_mobile.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_WAeUnE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caluga-Trinus_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga-Trinus_mobile.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3"
+        "6565bc0f-3939-488b-909e-7616f7e59da3",
+        "slide_igF7dk",
+        "slide_WAeUnE"
       ],
       "settings": {
         "layout": "full_bleed",
