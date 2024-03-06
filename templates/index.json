@@ -66,6 +66,97 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_RaFFTx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QCxkjb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dosasas.jpg",
+            "title": "CARTERAS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_p9PWXA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mochilas.jpg",
+            "title": "MOCHILAS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YKnjHL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bandoleras.jpg",
+            "title": "BANDOLERA",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bWBjDL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Billeteras.jpg",
+            "title": "BILLETERA",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CtEnXC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Calzado.jpg",
+            "title": "CALZADO",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yjdCjF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Accesorios.jpg",
+            "title": "ACCESORIOS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QCxkjb",
+        "column_p9PWXA",
+        "column_YKnjHL",
+        "column_bWBjDL",
+        "column_CtEnXC",
+        "column_yjdCjF"
+      ],
+      "settings": {
+        "force_full_width": false,
+        "title": "Shop by Category",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_desktop": false,
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b18a84ed-5707-48d2-b87d-d05620258745": {
       "type": "multicolumn",
       "blocks": {
@@ -254,6 +345,7 @@
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "featured_collection",
+    "multicolumn_RaFFTx",
     "b18a84ed-5707-48d2-b87d-d05620258745",
     "slideshow_tJrcGr",
     "406a65c7-d10a-4160-a30c-634059fa1435"
