@@ -21,50 +21,10 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_igF7dk": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga-Bags_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga-Bags_mobile.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_WAeUnE": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga-Trinus_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga-Trinus_mobile.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3",
-        "slide_igF7dk",
-        "slide_WAeUnE"
+        "6565bc0f-3939-488b-909e-7616f7e59da3"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -161,24 +121,6 @@
         "padding_bottom": 36
       }
     },
-    "17049857032c5ebfc6": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "17049865837c762c30": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "170498672219347873": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "b18a84ed-5707-48d2-b87d-d05620258745": {
       "type": "multicolumn",
       "blocks": {
@@ -240,54 +182,61 @@
         "padding_bottom": 100
       }
     },
-    "241f4691-2553-4f6e-bc31-ad64aa132e6b": {
-      "type": "image-banner",
-      "custom_css": [
-        ".banner--content-align-mobile-center {margin-top: 50px;}"
+    "slideshow_tJrcGr": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_tCtLkf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caluga-Trinus_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga-Trinus_mobile.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_FK3JL3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caluga-Bags_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Caluga-Bags_mobile.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tCtLkf",
+        "slide_FK3JL3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mochila.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_Tkhazm": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/carteras_6.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "dc802415-49b3-4130-a1bb-b4143927a0d4": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/rqqa37AjIoI?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=rqqa37AjIoI&enablejsapi=1&origin=https%3A%2F%2Fwww.ziolstore.com&widgetid=1",
-        "video_url": "",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "406a65c7-d10a-4160-a30c-634059fa1435": {
@@ -357,13 +306,8 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "featured_collection",
     "fd8003f0-fa91-4c7d-8f99-2bb233dd3615",
-    "17049857032c5ebfc6",
-    "17049865837c762c30",
-    "170498672219347873",
     "b18a84ed-5707-48d2-b87d-d05620258745",
-    "241f4691-2553-4f6e-bc31-ad64aa132e6b",
-    "image_banner_Tkhazm",
-    "dc802415-49b3-4130-a1bb-b4143927a0d4",
+    "slideshow_tJrcGr",
     "406a65c7-d10a-4160-a30c-634059fa1435"
   ]
 }
