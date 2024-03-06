@@ -141,7 +141,7 @@
       "settings": {
         "force_full_width": true,
         "title": "Shop by Category",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 6,
