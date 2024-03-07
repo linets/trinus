@@ -111,7 +111,7 @@
       ],
       "custom_css": [
         ".animate--slide-in {margin-bottom: 25px;}",
-        ".inline-richtext {margin: 0 auto; font-weight: 300; line-height: 0.1; color: #3c3c3b; }"
+        ".inline-richtext .title {margin: 0 auto; font-weight: 300; margin-top: 35px; color: #3c3c3b; font-size: 30px;}"
       ],
       "settings": {
         "force_full_width": true,
@@ -128,7 +128,7 @@
         "columns_mobile": "1",
         "swipe_on_desktop": false,
         "swipe_on_mobile": true,
-        "padding_top": 36,
+        "padding_top": 28,
         "padding_bottom": 24
       }
     },
