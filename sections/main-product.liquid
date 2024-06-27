@@ -632,10 +632,10 @@
                 {% render 'icon-caret' %}
               </summary>
               <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
-                {% if product.metafields.custom.correa_ajustable != blank %}
+                {% if product.metafields.global.correa_ajustable != blank %}
                   <div>
                     <strong>Correa ajustable:</strong>
-                    <span>{{ product.metafields.custom.correa_ajustable.value }}</span>
+                    <span>{{ product.metafields.global.correa_ajustable.value }}</span>
                   </div>
                 {% endif %}
                 {% if product.metafields.custom.con_monedero != blank %}
