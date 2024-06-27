@@ -49,74 +49,52 @@
     "multicolumn_RaFFTx": {
       "type": "multicolumn",
       "blocks": {
-        "column_QCxkjb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dosasas.jpg",
-            "title": "CARTERAS",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_p9PWXA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas.jpg",
+            "image": "shopify:\/\/shop_images\/Mochilas_4c759f94-e615-4646-8ee1-74d097180c72.jpg",
             "title": "MOCHILAS",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/mochilas"
           }
         },
         "column_YKnjHL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bandoleras.jpg",
-            "title": "BANDOLERA",
+            "image": "shopify:\/\/shop_images\/Portanotebook.jpg",
+            "title": "PORTA NOTEBOOK",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/mochilas-porta-notebook"
+          }
+        },
+        "column_QCxkjb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carteras.jpg",
+            "title": "CARTERAS",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/carteras"
           }
         },
         "column_bWBjDL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Billeteras.jpg",
+            "image": "shopify:\/\/shop_images\/Billeteras_40bf61e5-2c13-4032-9d88-9e4743b5582d.jpg",
             "title": "BILLETERA",
             "text": "",
             "link_label": "",
-            "link": ""
-          }
-        },
-        "column_CtEnXC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Calzado.jpg",
-            "title": "CALZADO",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yjdCjF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Accesorios.jpg",
-            "title": "ACCESORIOS",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/billeteras"
           }
         }
       },
       "block_order": [
-        "column_QCxkjb",
         "column_p9PWXA",
         "column_YKnjHL",
-        "column_bWBjDL",
-        "column_CtEnXC",
-        "column_yjdCjF"
+        "column_QCxkjb",
+        "column_bWBjDL"
       ],
       "custom_css": [
         ".animate--slide-in {margin-bottom: 25px;}",
@@ -128,7 +106,7 @@
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -144,41 +122,30 @@
     "b18a84ed-5707-48d2-b87d-d05620258745": {
       "type": "multicolumn",
       "blocks": {
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dos-asas_4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bandoleras-mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Caluga_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/carteras"
           }
         },
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3": {
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_9.jpg",
+            "image": "shopify:\/\/shop_images\/Caluga_1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/mochilas"
           }
         }
       },
       "block_order": [
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1",
         "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-3"
+        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1"
       ],
       "custom_css": [
         ".title-wrapper-with-link {justify-content: center; margin-top: 50px;}",
@@ -190,7 +157,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -209,13 +176,13 @@
         "slide_FK3JL3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga-Bags_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga-Bags_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Mochilas_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Mochilas_mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "",
+            "link": "shopify:\/\/collections\/mochilas",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -224,30 +191,10 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_tCtLkf": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga-Trinus_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Caluga-Trinus_mobile.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_FK3JL3",
-        "slide_tCtLkf"
+        "slide_FK3JL3"
       ],
       "custom_css": [
 
