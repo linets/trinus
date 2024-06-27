@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
@@ -6,13 +15,13 @@
         "6565bc0f-3939-488b-909e-7616f7e59da3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner-mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "",
+            "link": "shopify:\/\/collections\/mochilas",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
