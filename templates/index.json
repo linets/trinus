@@ -12,7 +12,7 @@
     "608f3ae5-b1cf-4082-919f-3ead2712d478": {
       "type": "slideshow",
       "blocks": {
-        "6565bc0f-3939-488b-909e-7616f7e59da3": {
+        "slide_iyAbbg": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Banner_web.jpg",
@@ -33,7 +33,7 @@
         }
       },
       "block_order": [
-        "6565bc0f-3939-488b-909e-7616f7e59da3"
+        "slide_iyAbbg"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -206,7 +206,7 @@
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
