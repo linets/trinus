@@ -230,6 +230,7 @@
                 {% assign count_1_options = 0 %}
                 {% assign count_2_options = 0 %}
                 {% for option in product.options_with_values %}
+                  1 --->
                   {% if option.name == 'Color' %}
                     {%- assign style = product.metafields.global.style.value -%}
                     {% assign item_id = '' %}
