@@ -227,7 +227,9 @@
                 {% render 'share-button', block: block, share_link: share_url %}
 
               {%- when 'variant_picker' -%}
-                            {{ product.variants.size }}
+                {% for variant in product.variants %}
+                  {{ variant.type }} -- xxx
+                {% endfor %}
                 {% if product.variants.size > 0 %}
                   {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
                 {% endif %}
