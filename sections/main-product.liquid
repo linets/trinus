@@ -227,8 +227,9 @@
                 {% render 'share-button', block: block, share_link: share_url %}
 
               {%- when 'variant_picker' -%}
+                {% assign count_1_options = 0 %}
+                {% assign count_2_options = 0 %}
                 {% for option in product.options_with_values %}
-                  
                   {% if option.name == 'Color' %}
                     {%- assign style = product.metafields.global.style.value -%}
                     {% assign item_id = '' %}
@@ -237,17 +238,16 @@
                         {% if product_similar.metafields.global.style.value == style %}
                           {% unless item_id contains product_similar.handle %}
                             {% assign item_id = item_id | append: ' : ' | append: product_similar.handle %}
-                            Cuenta 1 ----
+                            {% assign count_1_options = count_1_options | plus : 1 %}
                           {% endunless %}
                         {% endif %}
                       {% endfor %}
                     {% endfor %}
                   {% else %}
-                    Cuenta 2 ----
+                    {% assign count_2_options = count_2_options | plus : 1 %}
                   {% endif %}
-                      
                 {% endfor %}
-                {% if product.variants.size > 0 %}
+                {% if count_1_options > 1 or count_2_options > 1 %}
                   {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
                 {% endif %}
               {%- when 'buy_buttons' -%}
