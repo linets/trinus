@@ -227,6 +227,8 @@
                 {% render 'share-button', block: block, share_link: share_url %}
 
               {%- when 'variant_picker' -%}
+                {{ product.options_with_values }} ---
+                {{ product.options_with_values.size }} --- 
                 {% for variant in product.variants %}
                   {{ variant.type }} -- xxx
                 {% endfor %}
