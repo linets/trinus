@@ -3625,3 +3625,9 @@ details-disclosure>details {
   }
 }
 #MainContent{ overflow: hidden; }
+
+.grid.product-grid .price .price__badge-sale{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}

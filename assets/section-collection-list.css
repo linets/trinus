@@ -58,10 +58,4 @@
 
 .collection-list-view-all {
   margin-top: 2rem;
-}
-
-.price .price__badge-sale{
-  position: absolute;
-  top: 10px;
-  left: 10px;
-}
+} 
