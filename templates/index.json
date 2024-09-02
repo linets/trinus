@@ -15,8 +15,8 @@
         "slide_iyAbbg": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_Web_dab8f20f-3196-4556-878d-f7f2dde1158b.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_b96d3d85-dd74-478c-b562-9750987ad8e5.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -62,7 +62,7 @@
         "column_YKnjHL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Portanotebook_260f19b9-bf30-49c3-8df9-3f2d27cbd763.jpg",
+            "image": "shopify:\/\/shop_images\/portanotebook_b1042a83-5c6f-47c3-a4c8-fb3ecbd7bb88.jpg",
             "title": "PORTA NOTEBOOK",
             "text": "",
             "link_label": "",
@@ -72,7 +72,7 @@
         "column_QCxkjb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Carteras.jpg",
+            "image": "shopify:\/\/shop_images\/carteras_25f29fe5-db72-483b-ac44-4eb0f787a1c5.jpg",
             "title": "CARTERAS",
             "text": "",
             "link_label": "",
@@ -102,7 +102,7 @@
       ],
       "settings": {
         "force_full_width": true,
-        "title": "Shop by Category",
+        "title": "<strong>Shop by Category<\/strong>",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "square",
@@ -119,65 +119,14 @@
         "padding_bottom": 24
       }
     },
-    "b18a84ed-5707-48d2-b87d-d05620258745": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga_2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/carteras"
-          }
-        },
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Caluga_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas"
-          }
-        }
-      },
-      "block_order": [
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-2",
-        "template--21506872606913__b18a84ed-5707-48d2-b87d-d05620258745-column-1"
-      ],
-      "custom_css": [
-        ".title-wrapper-with-link {justify-content: center; margin-top: 50px;}",
-        ".multicolumn-list {margin-bottom: 35px;}"
-      ],
-      "settings": {
-        "force_full_width": true,
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_desktop": false,
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 100
-      }
-    },
     "slideshow_tJrcGr": {
       "type": "slideshow",
       "blocks": {
         "slide_FK3JL3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Mochilas_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Mochilas_web_686ddbe9-7ecc-4c71-822c-578461d0503f.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Mochilas_mobile_e7e8a0cd-8d97-4922-9672-3cde257d2a79.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -198,6 +147,43 @@
       ],
       "custom_css": [
 
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_VR9dVC": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Fitwny": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Portanotebook_web.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Portanotebook_mobile.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/mochilas-porta-notebook",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Fitwny"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -274,6 +260,7 @@
     },
     "video_aAPGeL": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -291,8 +278,8 @@
   "order": [
     "608f3ae5-b1cf-4082-919f-3ead2712d478",
     "multicolumn_RaFFTx",
-    "b18a84ed-5707-48d2-b87d-d05620258745",
     "slideshow_tJrcGr",
+    "slideshow_VR9dVC",
     "406a65c7-d10a-4160-a30c-634059fa1435",
     "video_aAPGeL"
   ]
