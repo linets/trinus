@@ -15,13 +15,13 @@
         "slide_iyAbbg": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Banner_Web_dab8f20f-3196-4556-878d-f7f2dde1158b.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Banner_mobile_b96d3d85-dd74-478c-b562-9750987ad8e5.jpg",
+            "image": "shopify://shop_images/Banner_Web_dab8f20f-3196-4556-878d-f7f2dde1158b.jpg",
+            "image_mobile": "shopify://shop_images/Banner_mobile_b96d3d85-dd74-478c-b562-9750987ad8e5.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/mochilas",
+            "link": "shopify://collections/mochilas",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -52,41 +52,41 @@
         "column_p9PWXA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_912eb3a5-e13b-4b14-8f58-7ef4d649e348.jpg",
+            "image": "shopify://shop_images/Mochilas_912eb3a5-e13b-4b14-8f58-7ef4d649e348.jpg",
             "title": "MOCHILAS",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas"
+            "link": "shopify://collections/mochilas"
           }
         },
         "column_YKnjHL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/portanotebook_b1042a83-5c6f-47c3-a4c8-fb3ecbd7bb88.jpg",
+            "image": "shopify://shop_images/portanotebook_b1042a83-5c6f-47c3-a4c8-fb3ecbd7bb88.jpg",
             "title": "PORTA NOTEBOOK",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/mochilas-porta-notebook"
+            "link": "shopify://collections/mochilas-porta-notebook"
           }
         },
         "column_QCxkjb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/carteras_25f29fe5-db72-483b-ac44-4eb0f787a1c5.jpg",
+            "image": "shopify://shop_images/carteras_25f29fe5-db72-483b-ac44-4eb0f787a1c5.jpg",
             "title": "CARTERAS",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/carteras"
+            "link": "shopify://collections/carteras"
           }
         },
         "column_bWBjDL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Billeteras_40bf61e5-2c13-4032-9d88-9e4743b5582d.jpg",
+            "image": "shopify://shop_images/Billeteras_40bf61e5-2c13-4032-9d88-9e4743b5582d.jpg",
             "title": "BILLETERA",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/billeteras"
+            "link": "shopify://collections/billeteras"
           }
         }
       },
@@ -102,7 +102,7 @@
       ],
       "settings": {
         "force_full_width": true,
-        "title": "<strong>Shop by Category<\/strong>",
+        "title": "<strong>Shop by Category</strong>",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "square",
@@ -125,13 +125,13 @@
         "slide_FK3JL3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mochilas_web_686ddbe9-7ecc-4c71-822c-578461d0503f.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Mochilas_mobile_e7e8a0cd-8d97-4922-9672-3cde257d2a79.jpg",
+            "image": "shopify://shop_images/Mochilas_web_686ddbe9-7ecc-4c71-822c-578461d0503f.jpg",
+            "image_mobile": "shopify://shop_images/Mochilas_mobile_e7e8a0cd-8d97-4922-9672-3cde257d2a79.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/mochilas",
+            "link": "shopify://collections/mochilas",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -165,13 +165,13 @@
         "slide_Fitwny": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Portanotebook_web.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Portanotebook_mobile.jpg",
+            "image": "shopify://shop_images/Portanotebook_web.jpg",
+            "image_mobile": "shopify://shop_images/Portanotebook_mobile.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/mochilas-porta-notebook",
+            "link": "shopify://collections/mochilas-porta-notebook",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -202,9 +202,9 @@
         "template--16161306640578__406a65c7-d10a-4160-a30c-634059fa1435-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/despacho.jpg",
-            "title": "<strong>Envío a domicilio<\/strong>",
-            "text": "<p>A todo Chile en 2 a 5 días hábiles<\/p>",
+            "image": "shopify://shop_images/despacho.jpg",
+            "title": "<strong>Envío a domicilio</strong>",
+            "text": "<p>A todo Chile en 5 a 7 días hábiles</p>",
             "link_label": "",
             "link": ""
           }
@@ -212,9 +212,9 @@
         "5d62f929-a455-4369-b59a-d72d1f33b2a1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cambios.webp",
-            "title": "<strong>Cambios y devoluciones<\/strong>",
-            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo<\/p>",
+            "image": "shopify://shop_images/cambios.webp",
+            "title": "<strong>Cambios y devoluciones</strong>",
+            "text": "<p>¿Dudas sobre tu elección? Devuelve sin costo</p>",
             "link_label": "",
             "link": ""
           }
@@ -222,9 +222,9 @@
         "7f41631c-b9a8-4930-b18f-ab768cd27ca3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cuotas.jpg",
-            "title": "<strong>Compra hasta 6 coutas <\/strong>",
-            "text": "<p>sin interes<\/p>",
+            "image": "shopify://shop_images/cuotas.jpg",
+            "title": "<strong>Compra hasta 6 coutas </strong>",
+            "text": "<p>sin interes</p>",
             "link_label": "",
             "link": ""
           }
@@ -265,7 +265,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "custm_video_url": "https:\/\/www.youtube.com\/embed\/PQJfx1gUqaU?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=PQJfx1gUqaU&enablejsapi=1&origin=https%3A%2F%2Fwww.trinus.cl&widgetid=1",
+        "custm_video_url": "https://www.youtube.com/embed/PQJfx1gUqaU?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=PQJfx1gUqaU&enablejsapi=1&origin=https%3A%2F%2Fwww.trinus.cl&widgetid=1",
         "video_url": "",
         "description": "",
         "full_width": true,
@@ -278,7 +278,7 @@
       "type": "apps",
       "blocks": {
         "instafeed_app_block_LiDwmy": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
