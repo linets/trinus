@@ -223,8 +223,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/cuotas.jpg",
-            "title": "<strong>Compra hasta 6 coutas </strong>",
-            "text": "<p>sin interes</p>",
+            "title": "<strong>Compra en hasta 6 coutas </strong>",
+            "text": "<p>Sin interés</p>",
             "link_label": "",
             "link": ""
           }
