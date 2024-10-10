@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "ENVÍO GRATIS POR COMPRAS SOBRE $49.900, DE ATACAMA A LOS LAGOS.",
-            "link": "shopify:\/\/pages\/envios-trinus"
+            "text": "ENVÍO GRATIS POR COMPRAS SOBRE $29.900, DE ATACAMA A LOS LAGOS.",
+            "link": "shopify://pages/envios-trinus"
           }
         }
       },

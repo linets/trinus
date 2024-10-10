@@ -203,8 +203,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/despacho.jpg",
-            "title": "<strong>Envío a domicilio</strong>",
-            "text": "<p>A todo Chile en 5 a 7 días hábiles</p>",
+            "title": "<strong>Envío gratis</strong>",
+            "text": "<p>En compras superiores a $29.900</p>",
             "link_label": "",
             "link": ""
           }
